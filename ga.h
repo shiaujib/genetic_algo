@@ -23,5 +23,5 @@ void selection();
 void crossover();
 void ge_fitness();
 void ge_value(); 
-
+i
 
